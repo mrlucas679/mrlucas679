@@ -29,7 +29,7 @@ struct Developer {
 
 fn main() {
     let me = Developer {
-        name:     "Keorapetswe Lucas Kgoatlha",
+        name:     "Rakau Keorapetswe Lucas Kgoatlha",
         alias:    "Rakau / mrlucas679",
         location: "Soweto, Naledi 🇿🇦",
         stack:    vec!["Rust","React","Node.js","Python","TypeScript"],
