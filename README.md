@@ -29,7 +29,7 @@ struct Developer {
 
 fn main() {
     let me = Developer {
-        name:     "Rakau Keorapetswe Lucas Kgoatlha",
+        name:     "Keorapetswe Lucas Kgoatlha",
         alias:    "Rakau / mrlucas679",
         location: "Soweto, Naledi 🇿🇦",
         stack:    vec!["Rust","React","Node.js","Python","TypeScript"],
@@ -66,7 +66,7 @@ fn main() {
 
 <div align="center">
 
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=mrlucas679&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/mrlucas679)
+[![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
 
