@@ -37,7 +37,7 @@
 > Rust taught me that *trust* is a compile-time guarantee.
 > A 🥈 silver medal at the **Rust Africa Hackathon 2026** taught me **I can ship**.
 >
-> I'm **Rakau**. I build in public from Naledi. I'm open to work, and my
+> My name is **Keorapetswe Lucas Kgoatlha** — Rakau. I build in public from Naledi. I'm open to work, and my
 > only condition is that we build something that **matters**.
 
 <br/>
@@ -88,8 +88,8 @@ enum Status { OpenToWork, Compiling, Mentoring }
 
 fn main() -> Result<(), Box<dyn std::error::Error>> {
     let rakau = Developer {
-        name:     "Keorapetswe Lucas Kgoatlha",
-        handle:   "Rakau · @mrlucas679",
+        name:     "Rakau Keorapetswe Lucas Kgoatlha",
+        handle:   "@mrlucas679",
         origin:   "Soweto, Naledi 🇿🇦",
         thesis:   "Africa's trust layer is missing. I'm writing it.",
         shipping: vec![
@@ -175,7 +175,7 @@ fn main() -> Result<(), Box<dyn std::error::Error>> {
 
 ## [v2025.Q4] — "prove it"
 ### Shipped
-- 💼 TrustWork v1 — marketplace that tests skills, doesn't just rate them
+- 💼 TrustWork v1 — built for the **FNB Hackathon** · marketplace that tests skills, doesn't just rate them
 - 🚀 2 hackathons competed · 1 trophy brought home · 0 regrets
 
 ## [v2025.Q2] — "the pivot" ◉
@@ -186,7 +186,7 @@ fn main() -> Result<(), Box<dyn std::error::Error>> {
 ### Added
 - Rust · React · TypeScript · Supabase to the toolbelt
 
-## [v2022–2024] — "raw reps"
+## [v2022–now] — "raw reps"
 ### Added
 - Discipline. Thousands of YouTube hours. F&B App Academy.
 - Late nights reading std::* documentation until it clicked.
