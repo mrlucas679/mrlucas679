@@ -274,8 +274,8 @@ fn main() -> Result<(), Box<dyn std::error::Error>> {
 
 <br/>
 
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrlucas679&layout=donut-vertical&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=c9d1d9&langs_count=8" />
-<img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mrlucas679&theme=radical_bg" />
+<img height="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrlucas679&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=c9d1d9&langs_count=6&card_width=480" />
+<img height="220" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mrlucas679&theme=radical_bg" />
 
 </div>
 
