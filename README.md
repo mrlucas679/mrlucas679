@@ -1,95 +1,127 @@
 <!-- ═══════════════════════════════════════════════════════════════════════════
-     KEORAPETSWE "RAKAU" KGOATLHA · GitHub Profile
-     mrlucas679 · Soweto, Naledi 🇿🇦 · Rust · React · Python
+     KEORAPETSWE "RAKAU" KGOATLHA
+     mrlucas679 · Soweto, Naledi 🇿🇦 · Trust-Layer Engineer
      ═══════════════════════════════════════════════════════════════════════════ -->
+
+![hero](./assets/hero.svg)
+
+<!-- ─── SMALL TYPING LINE ─────────────────────────────────────────────────── -->
 
 <div align="center">
 
-<!-- ─── HERO BANNER ─────────────────────────────────────────────────────────── -->
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:1a0033,50:7B2FBE,75:00B4D8,100:00D9FF&height=260&section=header&text=Keorapetswe%20Kgoatlha&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=self-taught%20·%20full-stack%20·%20building%20for%20Africa%20from%20Soweto%20🇿🇦&descAlignY=56&descSize=16&stroke=00D9FF&strokeWidth=1)
-
-<!-- ─── TYPING ANIMATION ────────────────────────────────────────────────────── -->
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=780&height=55&lines=%24+whoami+→+Rakau+%F0%9F%91%8B%F0%9F%8F%BE;%24+cat+mission.txt+→+build+for+Africa+%F0%9F%8C%8D;%24+grep+-r+%22hackathon%22+→+%F0%9F%A5%88+Rust+Africa+2026+Finalist;%24+systemctl+status+rakau+→+hireable+%2B+caffeinated;%24+echo+%22you+can+never+stop+learning%22+%E2%99%BE%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=3200&pause=900&color=00D9FF&center=true&vCenter=true&width=780&height=36&lines=%24+grep+-r+%22open-to-work%22+~%2F.status+→+✓+yes%2C+today;%24+cat+~%2Fmission.txt+→+build+Africa's+trust+layer;%24+tail+-f+%2Fvar%2Flog%2Fshipped+→+medichain+·+trustwork+·+amandla)](https://git.io/typing-svg)
 
 </div>
 
-<!-- ─── MANIFESTO ──────────────────────────────────────────────────────────── -->
+---
 
-> ```
-> I never finished university. I don't have a CS degree.
-> What I have is Soweto, discipline, and a terminal that won't close.
-> I taught kids how to type CVs at community centres. Now I build
-> the platforms that hire them. Same mission, different layer of the stack.
-> ```
-> — _`~/about/manifesto.md`_
+<!-- ═══════════════════════════════════════════════════════════════════════════
+     ▶  MANIFESTO · ~/about/why.md
+     ═══════════════════════════════════════════════════════════════════════════ -->
 
 <br/>
+
+> They called it the **"CV typing class."**
+> I called it the first verification system a township kid ever sees — proof
+> that you exist, that you qualify, that you belong in the room.
+>
+> I watched brilliant minds get filtered out of opportunity because
+> **Africa's trust layer doesn't exist yet.** A hospital that can't find your
+> records in time. An employer who can't confirm your skills. An interview
+> panel that can't tell the candidate from the proxy. A deaf classmate with
+> no interpreter in sight.
+>
+> So I stopped teaching CV layouts and started building the rails underneath.
+>
+> Soweto taught me that *ubuntu* is a specification.
+> Rust taught me that *trust* is a compile-time guarantee.
+> A 🥈 silver medal at the **Rust Africa Hackathon 2026** taught me **I can ship**.
+>
+> I'm **Rakau**. I build in public from Naledi. I'm open to work, and my
+> only condition is that we build something that **matters**.
+
+<br/>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════════════
+     ▶  THE THESIS · a visual
+     ═══════════════════════════════════════════════════════════════════════════ -->
+
+![trust-layer](./assets/trust-layer.svg)
+
+<br/>
+
+---
 
 <!-- ═══════════════════════════════════════════════════════════════════════════
      ▶  NEOFETCH
      ═══════════════════════════════════════════════════════════════════════════ -->
 
-<pre>
-<code>
-      ▄▄▄▄▄▄▄▄▄▄▄▄▄▄      <b>rakau@soweto</b>:~$ neofetch
-   ▄███████████████████▄   ──────────────────────────────────────────
-  ██████    ▄▄▄    ██████   <b>OS</b> ............ Soweto / Naledi, 🇿🇦
-  █████   ███████   █████   <b>Kernel</b> ........ Self-Taught v3.1.0
-  ████   ████ ████   ████   <b>Uptime</b> ........ 3+ years, still compiling
-  ███   ████   ████   ███   <b>Shell</b> ......... rust · python · bash
-  ███   ████   ████   ███   <b>Packages</b> ...... react, supabase, vite, three.js
-  ████   ████ ████   ████   <b>CPU</b> ........... Discipline × 4 cores
-  █████   ███████   █████   <b>GPU</b> ........... Big-dream rendering unit
-  ██████    ▀▀▀    ██████   <b>Memory</b> ........ ∞ / ∞ GiB (learning-backed)
-   ▀███████████████████▀    <b>Disk</b> .......... 99% ambition, 1% coffee
-      ▀▀▀▀▀▀▀▀▀▀▀▀▀▀       <b>Status</b> ........ 🟢 open to work
-                            <b>Building</b> ...... medichain · trust-work · amandla
-                            <b>Mantra</b> ........ "you can never stop learning" ♾️
-</code>
-</pre>
+![neofetch](./assets/neofetch.svg)
 
 <br/>
 
+---
+
 <!-- ═══════════════════════════════════════════════════════════════════════════
-     ▶  WHOAMI (the Rust version)
+     ▶  WHOAMI — the Rust version
      ═══════════════════════════════════════════════════════════════════════════ -->
 
 ### `$ cargo run --bin whoami`
 
 ```rust
+use africa::trust_layer;
+
 struct Developer<'a> {
-    name:      &'a str,
-    alias:     &'a str,
-    location:  &'a str,
-    stack:     Vec<&'a str>,
-    building:  Vec<(&'a str, &'a str)>,
-    status:    &'a str,
-    mantra:    &'a str,
+    name:       &'a str,
+    handle:     &'a str,
+    origin:     &'a str,
+    thesis:     &'a str,
+    shipping:   Vec<(&'a str, &'a str)>,
+    awards:     Vec<&'a str>,
+    status:     Status,
+    mantra:     &'a str,
 }
 
-fn main() {
-    let me = Developer {
+enum Status { OpenToWork, Compiling, Mentoring }
+
+fn main() -> Result<(), Box<dyn std::error::Error>> {
+    let rakau = Developer {
         name:     "Keorapetswe Lucas Kgoatlha",
-        alias:    "Rakau · mrlucas679",
-        location: "Soweto, Naledi 🇿🇦",
-        stack:    vec!["Rust", "TypeScript", "React", "Python", "Node.js"],
-        building: vec![
-            ("🏥 MediChain", "blockchain health ID for Africa"),
-            ("💼 TrustWork", "freelance marketplace that actually vets skills"),
-            ("🤟🏾 Amandla", "sign language accessibility, real-time"),
+        handle:   "Rakau · @mrlucas679",
+        origin:   "Soweto, Naledi 🇿🇦",
+        thesis:   "Africa's trust layer is missing. I'm writing it.",
+        shipping: vec![
+            ("🏥 MediChain",         "verify who you are, in an emergency"),
+            ("💼 TrustWork",         "verify what you can actually do"),
+            ("🤟🏾 Amandla",           "verify that everyone gets heard"),
+            ("🔐 VerifyMyInterview", "verify who's really on the call"),
         ],
-        status:   "🟢 open · junior | graduate | freelance | internship",
+        awards:   vec!["🥈 Rust Africa Hackathon 2026 · Finalist"],
+        status:   Status::OpenToWork,
         mantra:   "you can never stop learning ♾️",
     };
 
-    println!("{:#?}", me);
+    trust_layer::ship(&rakau)?;
     // → compiled in 0.42s, shipped with love from Soweto
+    Ok(())
 }
 ```
 
 <br/>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════════════
+     ▶  THE JOURNEY
+     ═══════════════════════════════════════════════════════════════════════════ -->
+
+![journey](./assets/journey.svg)
+
+<br/>
+
+---
 
 <!-- ═══════════════════════════════════════════════════════════════════════════
      ▶  CURRENTLY
@@ -100,19 +132,23 @@ fn main() {
 <table>
   <tr>
     <td><b>🚧 building</b></td>
-    <td><code>MediChain</code> — blockchain-verified national health ID with NFC/QR emergency access. Rust + smart contracts.</td>
+    <td><code>MediChain</code> — blockchain-verified national health ID with NFC/QR emergency access. Rust + smart contracts, designed for paramedics with zero signal.</td>
   </tr>
   <tr>
     <td><b>🌱 learning</b></td>
-    <td>Distributed systems · Solana · advanced TypeScript patterns · African fintech rails</td>
+    <td>Distributed systems · Solana · zero-knowledge proofs · African fintech rails</td>
   </tr>
   <tr>
     <td><b>🎯 looking for</b></td>
-    <td>A team that ships fast, mentors hard, and builds things Africa actually needs</td>
+    <td>A team that ships fast, mentors hard, and builds things Africa actually needs.</td>
   </tr>
   <tr>
-    <td><b>⚡ superpower</b></td>
-    <td>Taking an empty repo to a shipped MVP in &lt; 30 days. Ask about the hackathon.</td>
+    <td><b>⚡ my edge</b></td>
+    <td>Empty repo → shipped MVP in &lt; 30 days. Silver medal at Rust Africa 2026 as proof.</td>
+  </tr>
+  <tr>
+    <td><b>🗣️ I speak</b></td>
+    <td>English · Setswana · isiZulu — useful when your product ships across African markets</td>
   </tr>
   <tr>
     <td><b>☕ fuel</b></td>
@@ -122,6 +158,8 @@ fn main() {
 
 <br/>
 
+---
+
 <!-- ═══════════════════════════════════════════════════════════════════════════
      ▶  CHANGELOG — my journey
      ═══════════════════════════════════════════════════════════════════════════ -->
@@ -129,108 +167,75 @@ fn main() {
 ## <samp>⟢ my.changelog.md</samp>
 
 ```md
-## [v2026.04] — current ✦
+## [v2026.04] — current ✦ "ship / repeat"
 ### Shipped
-- 🥈 Rust Africa Hackathon 2026 — Finalist (MediChain)
-- 🤟🏾 Amandla — real-time sign language avatar for deaf South Africans
-- 🏢 Co-founded Lukau Tech Invasion
+- 🥈 Rust Africa Hackathon 2026 — Finalist with MediChain
+- 🤟🏾 Amandla — real-time SASL avatar for the South African deaf community
+- 🏢 Co-founded Lukau Tech Invasion (@LukauTechInvasion)
 
-## [v2025.Q4] — the grind
+## [v2025.Q4] — "prove it"
 ### Shipped
-- 💼 TrustWork v1 — full-stack freelance marketplace with skill testing
-- 🚀 2 hackathons competed · 1 trophy brought home
+- 💼 TrustWork v1 — marketplace that tests skills, doesn't just rate them
+- 🚀 2 hackathons competed · 1 trophy brought home · 0 regrets
 
-## [v2025.Q2] — the pivot
+## [v2025.Q2] — "the pivot" ◉
 ### Changed
-- From: youth educator teaching kids how to type CVs
-- To:   full-stack dev building platforms that hire them
+- ROLE: youth educator → full-stack developer
+- LESSON CARRIED OVER: if you can teach a kid to type a CV,
+                       you can ship a system that verifies one
 ### Added
 - Rust · React · TypeScript · Supabase to the toolbelt
 
-## [v2022–2024] — the foundation
+## [v2022–2024] — "raw reps"
 ### Added
-- Discipline. Relentless YouTube binges. F&B App Academy.
-- Countless late nights reading std::*. Refused to quit.
+- Discipline. Thousands of YouTube hours. F&B App Academy.
+- Late nights reading std::* documentation until it clicked.
+- Zero shortcuts. Zero complaints. Refused to quit.
+
+## [v2020–2022] — "origin"
+### Initial Commit
+- Born & raised in Soweto, Naledi 🇿🇦
+- Taught kids how to type CVs at community centres
+- Watched the access gap up close. Decided to do something about it.
 ```
 
 <br/>
 
+---
+
 <!-- ═══════════════════════════════════════════════════════════════════════════
-     ▶  FEATURED PROJECTS
+     ▶  PROJECTS — source of truth
      ═══════════════════════════════════════════════════════════════════════════ -->
 
-## <samp>⟢ ./projects --featured</samp>
+## <samp>⟢ ./projects --links</samp>
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-#### 🏥 [**MediChain**](https://github.com/mrlucas679/medichain)
-<sub>`Rust` · `Smart Contracts` · `NFC` · `TypeScript`</sub>
-
-A blockchain-verified national health ID with NFC/QR emergency access — so paramedics can read your critical data in 3 seconds, even in areas with no coverage.
-
-**Built for:** 🥈 Rust Africa Hackathon 2026 — Finalist
+<div align="center">
 
 <a href="https://github.com/mrlucas679/medichain">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mrlucas679&repo=medichain&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=7B2FBE&text_color=c9d1d9" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mrlucas679&repo=medichain&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=F74C00&text_color=c9d1d9" />
 </a>
-
-</td>
-<td width="50%" valign="top">
-
-#### 🤟🏾 [**Amandla**](https://github.com/mrlucas679/amandla)
-<sub>`Python` · `Electron` · `Three.js` · `FastAPI` · `WebSockets`</sub>
-
-A real-time sign-language translation desktop app for the deaf community in South Africa. 3D avatar signs SASL from spoken or typed input.
-
-**Why it matters:** accessibility is a right, not a feature.
-
 <a href="https://github.com/mrlucas679/amandla">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mrlucas679&repo=amandla&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=7B2FBE&text_color=c9d1d9" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mrlucas679&repo=amandla&theme=radical&hide_border=true&bg_color=0D1117&title_color=F74C00&icon_color=F74C00&text_color=c9d1d9" />
 </a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### 💼 [**TrustWork**](https://github.com/mrlucas679/trust-work)
-<sub>`React` · `TypeScript` · `Vite` · `Supabase` · `Node.js`</sub>
-
-A full-stack freelance marketplace that verifies talent through **actual skill testing & certification** — not just a 5-star review system.
-
-**Why it matters:** African freelancers deserve proof their work gets them seen.
 
 <a href="https://github.com/mrlucas679/trust-work">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mrlucas679&repo=trust-work&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=7B2FBE&text_color=c9d1d9" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mrlucas679&repo=trust-work&theme=radical&hide_border=true&bg_color=0D1117&title_color=7B2FBE&icon_color=7B2FBE&text_color=c9d1d9" />
 </a>
-
-</td>
-<td width="50%" valign="top">
-
-#### 🔐 [**VerifyMyInterview**](https://github.com/mrlucas679)
-<sub>`TypeScript` · _private repo_</sub>
-
-Interview verification platform — anti-fraud, anti-proxy, anti-ghost-candidate. Built because too many fake interviews happen in the hiring pipeline.
-
-**Status:** early stage · _ask me about it_ ✉️
-
 <a href="https://github.com/mrlucas679/trustwork">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mrlucas679&repo=trustwork&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=7B2FBE&text_color=c9d1d9" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mrlucas679&repo=trustwork&theme=radical&hide_border=true&bg_color=0D1117&title_color=F5E6D3&icon_color=F5E6D3&text_color=c9d1d9" />
 </a>
 
-</td>
-</tr>
-</table>
+</div>
 
 <br/>
+
+---
 
 <!-- ═══════════════════════════════════════════════════════════════════════════
      ▶  TECH ARSENAL
      ═══════════════════════════════════════════════════════════════════════════ -->
 
-## <samp>⟢ ./arsenal --show-skills</samp>
+## <samp>⟢ ./arsenal --list</samp>
 
 <div align="center">
 
@@ -254,15 +259,17 @@ Interview verification platform — anti-fraud, anti-proxy, anti-ghost-candidate
 
 <br/>
 
+---
+
 <!-- ═══════════════════════════════════════════════════════════════════════════
      ▶  STATS DASHBOARD
      ═══════════════════════════════════════════════════════════════════════════ -->
 
-## <samp>⟢ ./stats --all</samp>
+## <samp>⟢ ./stats</samp>
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=mrlucas679&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=7B2FBE&text_color=c9d1d9&count_private=true&include_all_commits=true" />
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=mrlucas679&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=F74C00&text_color=c9d1d9&count_private=true&include_all_commits=true" />
 <img height="175" src="https://streak-stats.demolab.com?user=mrlucas679&theme=radical&hide_border=true&background=0D1117&stroke=7B2FBE&ring=00D9FF&fire=F74C00&currStreakLabel=00D9FF&sideLabels=c9d1d9&dates=8b949e" />
 
 <br/>
@@ -274,18 +281,22 @@ Interview verification platform — anti-fraud, anti-proxy, anti-ghost-candidate
 
 <br/>
 
+---
+
 <!-- ═══════════════════════════════════════════════════════════════════════════
      ▶  CONTRIBUTION PULSE
      ═══════════════════════════════════════════════════════════════════════════ -->
 
-## <samp>⟢ ./contributions --graph</samp>
+## <samp>⟢ ./contributions --last=12months</samp>
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mrlucas679&theme=react-dark&bg_color=0D1117&color=00D9FF&line=7B2FBE&point=F74C00&area=true&area_color=7B2FBE&hide_border=true&custom_title=📈%20%20contribution%20pulse%20·%20last%2012%20months)](https://github.com/mrlucas679)
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mrlucas679&theme=react-dark&bg_color=0D1117&color=00D9FF&line=7B2FBE&point=F74C00&area=true&area_color=7B2FBE&hide_border=true&custom_title=📈%20%20every%20commit%20a%20receipt)](https://github.com/mrlucas679)
 
 <br/>
 
+---
+
 <!-- ═══════════════════════════════════════════════════════════════════════════
-     ▶  SNAKE EATS CONTRIBUTIONS
+     ▶  SNAKE
      ═══════════════════════════════════════════════════════════════════════════ -->
 
 ## <samp>⟢ ./snake --eat-my-commits</samp>
@@ -302,50 +313,30 @@ Interview verification platform — anti-fraud, anti-proxy, anti-ghost-candidate
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════
-     ▶  TROPHY CASE
-     ═══════════════════════════════════════════════════════════════════════════ -->
-
-## <samp>⟢ ./trophy-case --display</samp>
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=mrlucas679&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-<br/>
+---
 
 <!-- ═══════════════════════════════════════════════════════════════════════════
      ▶  WHY ME
      ═══════════════════════════════════════════════════════════════════════════ -->
 
-## <samp>⟢ ./why-hire-me.md</samp>
+## <samp>⟢ ./why-me.md</samp>
 
-```python
-while alive:
-    eat()
-    sleep()
-    learn_to_code()          # ← this loop iterates the hardest
-    build_for_africa()
-    repeat()
-```
-
-- 🌍 Born & raised in **Soweto, Naledi** — township grit runs through every commit
-- 🎓 No CS degree. Instead: **F&B App Academy**, thousands of YouTube hours, and repos that ship
-- 👨🏾‍🏫 **Former youth educator** — I can explain a linked list to a 12-year-old and close a tech debate with a principal engineer
-- 🦀 I write **Rust** because memory safety is a love language
-- 🥈 **2 hackathons, 1 trophy** — I perform under deadline
-- 🤝 I communicate in **English · Setswana · isiZulu** — useful when shipping to African markets
-- 💡 **Ready for:** Junior Dev · Graduate Dev · Freelance · Internship
+- 🥈 **Proof, not promises.** Rust Africa Hackathon 2026 · Finalist. I ship under pressure.
+- 🏗️ **Range.** Rust backends. React frontends. Three.js avatars. FastAPI services. SQL schemas. I move across the stack without translation overhead.
+- 👨🏾‍🏫 **Teacher's communication.** I can explain a linked list to a twelve-year-old *and* hold my own in a design review with a principal engineer.
+- 🌍 **African context as a feature.** I understand what it means to build for 3G connections, shared devices, and users who rely on cash-based payment rails.
+- 🗣️ **Trilingual.** English · Setswana · isiZulu. Useful the moment your product touches the continent.
+- 🎯 **Ready for:** Junior Dev · Graduate Dev · Freelance · Internship.
 
 <br/>
 
+---
+
 <!-- ═══════════════════════════════════════════════════════════════════════════
-     ▶  CONTACT
+     ▶  CONNECT
      ═══════════════════════════════════════════════════════════════════════════ -->
 
-## <samp>⟢ ./connect --interactive</samp>
+## <samp>⟢ ./connect</samp>
 
 <div align="center">
 
@@ -359,17 +350,19 @@ while alive:
   <img src="https://img.shields.io/badge/GitHub-@mrlucas679-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
 </a>
 <a href="https://github.com/LukauTechInvasion">
-  <img src="https://img.shields.io/badge/Org-@LukauTechInvasion-7B2FBE?style=for-the-badge&logo=buildkite&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Org-Lukau_Tech_Invasion-7B2FBE?style=for-the-badge&logo=buildkite&logoColor=white&labelColor=0D1117" />
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=mrlucas679&color=7B2FBE&style=for-the-badge&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=mrlucas679&color=F74C00&style=for-the-badge&label=PROFILE+VIEWS" />
 <img src="https://img.shields.io/github/followers/mrlucas679?style=for-the-badge&color=00D9FF&labelColor=0D1117&logo=github" />
 
 </div>
 
 <br/>
+
+---
 
 <!-- ═══════════════════════════════════════════════════════════════════════════
      ▶  FOOTER
@@ -377,11 +370,15 @@ while alive:
 
 <div align="center">
 
-```
-"Motho ke motho ka batho."  —  I am because we are.
-```
+### <samp>`Motho ke motho ka batho.`</samp>
 
-<sub>💻 built, broken, fixed, shipped · from Soweto with ❤️ · <code>EOF</code></sub>
+<sub><i>I am because we are. Build accordingly.</i></sub>
+
+<br/>
+
+<sub>💻 <b>built · broken · fixed · shipped</b> · from <b>Naledi, Soweto</b> with ❤️ · <code>EOF</code></sub>
+
+<br/>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,25:00B4D8,50:7B2FBE,75:1a0033,100:0D1117&height=120&section=footer)
 
