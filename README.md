@@ -1,5 +1,5 @@
 <!-- ═══════════════════════════════════════════════════════════════════════════
-     KEORAPETSWE "RAKAU" KGOATLHA
+     Rakau Keorapetswe Lucas Kgoatlha
      mrlucas679 · Soweto, Naledi 🇿🇦 · Trust-Layer Engineer
      ═══════════════════════════════════════════════════════════════════════════ -->
 
@@ -218,11 +218,11 @@ fn main() -> Result<(), Box<dyn std::error::Error>> {
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=mrlucas679&repo=amandla&theme=radical&hide_border=true&bg_color=0D1117&title_color=F74C00&icon_color=F74C00&text_color=c9d1d9" />
 </a>
 
-<a href="https://github.com/mrlucas679/trust-work">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mrlucas679&repo=trust-work&theme=radical&hide_border=true&bg_color=0D1117&title_color=7B2FBE&icon_color=7B2FBE&text_color=c9d1d9" />
-</a>
 <a href="https://github.com/mrlucas679/trustwork">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mrlucas679&repo=trustwork&theme=radical&hide_border=true&bg_color=0D1117&title_color=F5E6D3&icon_color=F5E6D3&text_color=c9d1d9" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mrlucas679&repo=trustwork&theme=radical&hide_border=true&bg_color=0D1117&title_color=7B2FBE&icon_color=7B2FBE&text_color=c9d1d9" />
+</a>
+<a href="https://github.com/mrlucas679/verifymyinterview">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mrlucas679&repo=verifymyinterview&theme=radical&hide_border=true&bg_color=0D1117&title_color=F5E6D3&icon_color=F5E6D3&text_color=c9d1d9" />
 </a>
 
 </div>
