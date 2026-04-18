@@ -269,7 +269,7 @@ fn main() -> Result<(), Box<dyn std::error::Error>> {
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=mrlucas679&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=F74C00&text_color=c9d1d9&count_private=true&include_all_commits=true" />
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=mrlucas679&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=F74C00&text_color=c9d1d9&count_private=true" />
 <img height="175" src="https://streak-stats.demolab.com?user=mrlucas679&theme=radical&hide_border=true&background=0D1117&stroke=7B2FBE&ring=00D9FF&fire=F74C00&currStreakLabel=00D9FF&sideLabels=c9d1d9&dates=8b949e" />
 
 <br/>
