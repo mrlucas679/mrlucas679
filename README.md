@@ -37,7 +37,7 @@
 > Rust taught me that *trust* is a compile-time guarantee.
 > A 🥈 silver medal at the **Rust Africa Hackathon 2026** taught me **I can ship**.
 >
-> My name is **Keorapetswe Lucas Kgoatlha** — Rakau. I build in public from Naledi. I'm open to work, and my
+> My name is **Rakau Keorapetswe Lucas Kgoatlha**. I build in public from Naledi. I'm open to work, and my
 > only condition is that we build something that **matters**.
 
 <br/>
