@@ -75,16 +75,16 @@
   <!-- Three achievement tokens -->
   <g class="slide-in delay-3" transform="translate(60, 322)">
     <g>
-      <rect width="192" height="26" rx="13" fill="#7B2FBE" opacity="0.22" stroke="#7B2FBE" stroke-width="1"/>
-      <text x="96" y="17" text-anchor="middle" fill="#F5E6D3" font-family="ui-monospace, monospace" font-size="13" letter-spacing="0.8">🥈 RUST AFRICA 2026 · 2ND</text>
+      <rect width="216" height="28" rx="14" fill="#7B2FBE" opacity="0.22" stroke="#7B2FBE" stroke-width="1"/>
+      <text x="108" y="19" text-anchor="middle" fill="#F5E6D3" font-family="ui-monospace, monospace" font-size="15" letter-spacing="0.8">🥈 RUST AFRICA 2026 · 2ND</text>
     </g>
-    <g transform="translate(204, 0)">
-      <rect width="158" height="26" rx="13" fill="#00D9FF" opacity="0.18" stroke="#00D9FF" stroke-width="1"/>
-      <text x="79" y="17" text-anchor="middle" fill="#F5E6D3" font-family="ui-monospace, monospace" font-size="13" letter-spacing="0.8">🟢 OPEN TO WORK</text>
+    <g transform="translate(228, 0)">
+      <rect width="180" height="28" rx="14" fill="#00D9FF" opacity="0.18" stroke="#00D9FF" stroke-width="1"/>
+      <text x="90" y="19" text-anchor="middle" fill="#F5E6D3" font-family="ui-monospace, monospace" font-size="15" letter-spacing="0.8">🟢 OPEN TO WORK</text>
     </g>
-    <g transform="translate(374, 0)">
-      <rect width="176" height="26" rx="13" fill="#F74C00" opacity="0.22" stroke="#F74C00" stroke-width="1"/>
-      <text x="88" y="17" text-anchor="middle" fill="#F5E6D3" font-family="ui-monospace, monospace" font-size="13" letter-spacing="0.8">⚡ 3+ SHIPPED PRODUCTS</text>
+    <g transform="translate(420, 0)">
+      <rect width="200" height="28" rx="14" fill="#F74C00" opacity="0.22" stroke="#F74C00" stroke-width="1"/>
+      <text x="100" y="19" text-anchor="middle" fill="#F5E6D3" font-family="ui-monospace, monospace" font-size="15" letter-spacing="0.8">⚡ 3+ SHIPPED PRODUCTS</text>
     </g>
   </g>
 
@@ -99,26 +99,26 @@
     <!-- MediChain -->
     <line x1="160" y1="110" x2="50" y2="40" stroke="#00D9FF" stroke-width="1.2" opacity="0.55"/>
     <circle cx="50" cy="40" r="8" fill="#00D9FF"/>
-    <text x="50" y="26" text-anchor="middle" fill="#F5E6D3" font-family="ui-monospace, monospace" font-size="13" letter-spacing="1">🏥 MEDICHAIN</text>
+    <text x="50" y="24" text-anchor="middle" fill="#F5E6D3" font-family="ui-monospace, monospace" font-size="14" letter-spacing="1">🏥 MEDICHAIN</text>
 
     <!-- TrustWork -->
     <line x1="160" y1="110" x2="300" y2="30" stroke="#7B2FBE" stroke-width="1.2" opacity="0.55"/>
     <circle cx="300" cy="30" r="8" fill="#7B2FBE"/>
-    <text x="300" y="16" text-anchor="middle" fill="#F5E6D3" font-family="ui-monospace, monospace" font-size="13" letter-spacing="1">💼 TRUSTWORK</text>
+    <text x="300" y="14" text-anchor="middle" fill="#F5E6D3" font-family="ui-monospace, monospace" font-size="14" letter-spacing="1">💼 TRUSTWORK</text>
 
     <!-- Amandla -->
     <line x1="160" y1="110" x2="70" y2="200" stroke="#F5E6D3" stroke-width="1.2" opacity="0.55"/>
     <circle cx="70" cy="200" r="8" fill="#F5E6D3"/>
-    <text x="70" y="222" text-anchor="middle" fill="#F5E6D3" font-family="ui-monospace, monospace" font-size="13" letter-spacing="1">🤟🏾 AMANDLA</text>
+    <text x="70" y="224" text-anchor="middle" fill="#F5E6D3" font-family="ui-monospace, monospace" font-size="14" letter-spacing="1">🤟🏾 AMANDLA</text>
 
     <!-- VerifyMyInterview -->
     <line x1="160" y1="110" x2="290" y2="200" stroke="#00D9FF" stroke-width="1.2" opacity="0.55"/>
     <circle cx="290" cy="200" r="8" fill="#00D9FF" opacity="0.7"/>
-    <text x="290" y="222" text-anchor="middle" fill="#F5E6D3" font-family="ui-monospace, monospace" font-size="13" letter-spacing="1">🔐 VMI</text>
+    <text x="290" y="224" text-anchor="middle" fill="#F5E6D3" font-family="ui-monospace, monospace" font-size="14" letter-spacing="1">🔐 VMI</text>
 
     <!-- Central label -->
-    <text x="160" y="154" text-anchor="middle" fill="#F5E6D3" font-family="ui-monospace, monospace" font-size="13" font-weight="700" letter-spacing="2">TRUST LAYER</text>
-    <text x="160" y="170" text-anchor="middle" fill="#c9d1d9" font-family="ui-monospace, monospace" font-size="12" letter-spacing="2" opacity="0.75">for africa</text>
+    <text x="160" y="154" text-anchor="middle" fill="#F5E6D3" font-family="ui-monospace, monospace" font-size="14" font-weight="700" letter-spacing="2">TRUST LAYER</text>
+    <text x="160" y="173" text-anchor="middle" fill="#c9d1d9" font-family="ui-monospace, monospace" font-size="15" letter-spacing="2" opacity="0.75">for africa</text>
   </g>
 
   <!-- Blinking cursor at end of command line -->
